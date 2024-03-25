@@ -1,0 +1,35 @@
+
+html{
+    font-size: 20px;
+}
+
+
+body{
+    font-family: "Arial", "Meiryo", sans-serif;
+    text-align: center;
+}
+
+h2{
+    font-family: "Josefin Sans", sans-serif;
+}
+
+h1{
+    font-size: 2rem;
+    letter-spacing: 1.2em;
+    text-shadow: 4px 2px 3px #C97E7F;
+    border-bottom:3px solid rgb(115, 115, 114);
+}
+
+.fc_skyblue{
+    color: skyblue;
+}
+
+.fc_pink{
+    color: rgb(255, 192, 203);
+}
+
+#basic p{
+    font-weight: bold;
+}
+
+
